@@ -1,5 +1,5 @@
-# Trick-MacOS
- Trick For MacOS M1
+# TIP-MacOS
+ TIP For MacOS M1
 
 ## 1. Install Homebrew
 ```bash
